@@ -1,0 +1,5 @@
+package multi-wasm:prime; // Semicolon at the end of package declaration
+
+world prime {
+  export is-prime: func(n: u64) -> u32; // Semicolon after function declaration
+}

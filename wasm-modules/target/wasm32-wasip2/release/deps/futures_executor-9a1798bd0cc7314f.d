@@ -1,0 +1,9 @@
+/Users/athanasiapharmake/workspace/playing-with-wasm/wasm-modules/target/wasm32-wasip2/release/deps/libfutures_executor-9a1798bd0cc7314f.rmeta: /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/lib.rs /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/local_pool.rs /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/enter.rs
+
+/Users/athanasiapharmake/workspace/playing-with-wasm/wasm-modules/target/wasm32-wasip2/release/deps/libfutures_executor-9a1798bd0cc7314f.rlib: /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/lib.rs /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/local_pool.rs /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/enter.rs
+
+/Users/athanasiapharmake/workspace/playing-with-wasm/wasm-modules/target/wasm32-wasip2/release/deps/futures_executor-9a1798bd0cc7314f.d: /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/lib.rs /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/local_pool.rs /Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/enter.rs
+
+/Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/lib.rs:
+/Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/local_pool.rs:
+/Users/athanasiapharmake/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-executor-0.3.31/src/enter.rs:

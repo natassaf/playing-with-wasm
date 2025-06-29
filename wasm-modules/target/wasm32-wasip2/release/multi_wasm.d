@@ -1,0 +1,1 @@
+/Users/athanasiapharmake/workspace/playing-with-wasm/wasm-modules/target/wasm32-wasip2/release/multi_wasm.wasm: /Users/athanasiapharmake/workspace/playing-with-wasm/wasm-modules/prime.wit /Users/athanasiapharmake/workspace/playing-with-wasm/wasm-modules/src/lib.rs
